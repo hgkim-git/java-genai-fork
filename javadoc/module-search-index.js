@@ -1,0 +1,1 @@
+var moduleSearchIndex = [{"l":"google-genai","url":"index.html"}]
